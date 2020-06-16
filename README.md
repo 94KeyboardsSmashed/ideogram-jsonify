@@ -12,6 +12,7 @@ Use command ```./ideogram_jsonify.py --help``` for full documentation.
 
 Typical use
 ```./ideogram_jsonify.py gtf_path dge_path```
+```python3 ideogram_jsonify.py gtf_path dge_path``` also works if for some reason you don't get the program to work as an executable
 
 Example use:
 ```./ideogram_jsonify.py ftp://ftp.ebi.ac.uk/pub/databases/gencode/Gencode_mouse/release_M23/gencode.vM23.basic.annotation.gtf.gz https://genelab-data.ndc.nasa.gov/genelab/static/media/dataset/GLDS-4_array_differential_expression.csv?version=1```
