@@ -11,7 +11,8 @@ Prerequisites
 Use command ```./ideogram_jsonify.py --help``` for full documentation.
 
 Typical use
-```./ideogram_jsonify.py gtf_path dge_path```
+```./ideogram_jsonify.py gtf_path dge_path```.
+
 ```python3 ideogram_jsonify.py gtf_path dge_path``` also works if for some reason you don't get the program to work as an executable
 
 Example use:
